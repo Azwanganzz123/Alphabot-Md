@@ -35,7 +35,7 @@ global.owner = ["6288210387012","6288210387012"] //ganti agar fitur owner bisa d
 global.ownernomer = "6288210387012" // nomor wa kalian
 global.ownernomerr = "+6288210387012" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.donasi = "./image/Screenshot_20220708-170503_Gojek.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
 global.packname = '© azwanbot-Mdོ' //sticker wm ubah
